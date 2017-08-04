@@ -8,9 +8,6 @@ By the time I got to college in Washington, DC I had the opportunity to live in 
 
 I graduated from The George Washington University School business where I got a [Bachelor's in Business Administration](https://business.gwu.edu/academics/programs/undergraduate/bba) concentrating in finance and information systems, a [Masters of Science in Information Systems Technology](https://business.gwu.edu/academics/programs/specialized-masters/msist), and a [Certificate in Data Science](https://datasci.columbian.gwu.edu/) from the GW Columbian College of Arts & Sciences. Cz you know...all that matters is where you went to college. :smiley:
 
-
-
-
 ### Resume
 
 Below you can find my resume updated as of Friday, August 4th 2017. Additionally you download a PDF copy of it [here!](#)
