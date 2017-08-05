@@ -40,7 +40,8 @@ as 5th most successful ambassador out of Americas region during last year of pos
 - Collaborate with finance professor, Robert Savickas, on research regarding the application of analytical natural language processing tools within finance industry. 
 - Analyze natural language data with Natural Language Toolkit using Python.
 
-### AMERICAN NURSES ASSOCIATION, Washington, DC 
+### AMERICAN NURSES ASSOCIATION, Silver Spring, MD
+
 ### Marketing Specialist, June – August 2013
 - Assisted the information technology department with implementation of new web-based project management software, WorkZone,which streamlined department’s project workflow and task requirements.
 - Collaborated with marketing department in branding and presentation of new Magnet Recognition Program and credentialing products such as Nurse Practitioner and Clinical Nurse Specialist certifications.
@@ -83,6 +84,6 @@ If you have any questions don't hesitate to send me an email at [arturs.oganes@g
 
 # Socials
 
-You can follow me on <a href="https://www.linkedin.com/in/arturso/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://twitter.com/_AOG" target="_blank">Twitter</a>, and<a href="https://www.instagram.com/le_roi_arturs/" target="_blank">Instagram</a>
+You can follow me on <a href="https://www.linkedin.com/in/arturso/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://twitter.com/_AOG" target="_blank">Twitter</a>, and <a href="https://www.instagram.com/le_roi_arturs/" target="_blank">Instagram</a>
 
 <!--[<img src="images/linkedin.svg" alt="LinkedIn" style="width: 20px;"/>]-->
