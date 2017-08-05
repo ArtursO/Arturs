@@ -55,7 +55,7 @@ as 5th most successful ambassador out of Americas region during last year of pos
 - Supported sales through extensive research on potential leads, markets, and industries. Compiled data on industries where our software would be most beneficial resulting in compiled list of potential leads for future sales.
 
 #### BEAU REVEIL FOOD DELIVERY, Leysin, Switzerland
-#### Founder, January – May 2010
+*Founder, January – May 2010*
 - Identified business opportunity in highly regulated dormitory environment and consequentially pitched idea to dorm director.
 - Oversaw supply management and operations of handling school-supplier-stakeholder relationships on a daily basis.
  -  Resulted in profits of approximately $1200 per week whilst donating 20-30% to local Habit for Humanity chapter.
