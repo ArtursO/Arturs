@@ -78,7 +78,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 # Contact
 
-If you have any questions don't hesitate to send me an email at TBD
+If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com)
 
 # Socials
 
