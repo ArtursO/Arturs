@@ -13,6 +13,14 @@ I graduated from The George Washington University School business where I got a 
 Below you can find my resume updated as of Friday, August 4th 2017. Additionally you download a PDF copy of it [here!](#)
 
 ```markdown
+## ANANT CORPORATION 
+### Business Analyst & Project Manager
+- Act as liaison between client and technical team in order to facilitate the use of technology to drive critical business goals.
+- Perform requirements gathering for five clients thus far in order to ensure timely delivery and client satisfaction while staying within the
+scope of the project. Craft client solutions that leverage CMS / portal technology.
+- Work effectively in a collaborative team environment composed of various partners and vendors.
+- Perform front-end development, testing and content marketing strategy automations for clients. Led and managed development and delivery of new company site.
+
 Syntax highlighted code block
 
 # Header 1
