@@ -49,13 +49,13 @@ as 5th most successful ambassador out of Americas region during last year of pos
 - Collaborated with marketing department in branding and presentation of new Magnet Recognition Program and credentialing products such as Nurse Practitioner and Clinical Nurse Specialist certifications.
 
 #### JOBCOMPASS, Washington, DC 
-*Sales Strategy Coordinator*, January – August 2012, March – May 2013
+*Sales Strategy Coordinator* | <p style="align:right">January – August 2012, March – May 2013</p>
 - Generated various deliverables concerning employment statistics across numerous companies, which assisted both the sales pitching and effective customer targeting of early technology start-up.
 - Gained experience in day-to-day business functions and HR working at a technology startup company specializing in human resource management.
 - Supported sales through extensive research on potential leads, markets, and industries. Compiled data on industries where our software would be most beneficial resulting in compiled list of potential leads for future sales.
 
-#### **BEAU REVEIL FOOD DELIVERY**, Leysin, Switzerland
-*Founder, January – May 2010*
+#### BEAU REVEIL FOOD DELIVERY, Leysin, Switzerland
+#### Founder | <p style="align:right">January – May 2010</p>
 - Identified business opportunity in highly regulated dormitory environment and consequentially pitched idea to dorm director.
 - Oversaw supply management and operations of handling school-supplier-stakeholder relationships on a daily basis.
  -  Resulted in profits of approximately $1200 per week whilst donating 20-30% to local Habit for Humanity chapter.
