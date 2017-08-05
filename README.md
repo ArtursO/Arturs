@@ -82,4 +82,6 @@ If you have any questions don't hesitate to send me an email at TBD
 
 # Socials
 
-You can follow me on Instagram, Twitter, LinkedIn(?), if you wish.
+You can follow me on [LinkedIn](https://www.linkedin.com/in/arturso/?locale=en_US), [Twitter](https://twitter.com/_AOG), and [Instagram](https://www.instagram.com/le_roi_arturs/).
+
+<!--[<img src="images/linkedin.svg" alt="LinkedIn" style="width: 20px;"/>]-->
