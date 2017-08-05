@@ -1,5 +1,5 @@
 # About Me
-
+---
 My name is **Arturs**.
 
 I was born in Riga, Latvia. By the time I got to college in Washington, DC I had the opportunity to live in 8 different cities, 6 different countries, and learned, forgot, and re-learned Russian (:five:/:keycap_ten:), English (:thumbsup:), French (:thumbsup:), and German (:three:/:keycap_ten:) 
@@ -10,8 +10,9 @@ I graduated from The George Washington University School business where I got a 
 
 Currently I work at <a href="www.anant.us" target="_blank">Anant</a> in the Georgetown area of Washington, DC where I help our team with business analysis, project management, and little bit of product management for our open-source framework, <a href="https://github.com/Appleseed" target="_blank">Appleseed</a>.
 
-# Resume
 
+# Resume
+---
 Below you can find my resume updated as of Friday, August 4th 2017. Additionally you can download a PDF copy of it <a href="Arturs.Oganesyan-Peel.CV.03.20.2017.pdf" target="_blank">here!</a>
 
 
@@ -81,11 +82,11 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
 # Contact
-
+---
 If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com)
 
 # Socials
-
+---
 You can follow me on <a href="https://www.linkedin.com/in/arturso/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://twitter.com/_AOG" target="_blank">Twitter</a>, and <a href="https://www.instagram.com/le_roi_arturs/" target="_blank">Instagram</a>
 
 <!--[<img src="images/linkedin.svg" alt="LinkedIn" style="width: 20px;"/>]-->
