@@ -10,7 +10,8 @@ I graduated from The George Washington University School business where I got a 
 
 # Resume
 
-Below you can find my resume updated as of Friday, August 4th 2017. Additionally you download a PDF copy of it [here!](Arturs.Oganesyan-Peel.CV.03.20.2017.pdf)
+Below you can find my resume updated as of Friday, August 4th 2017. Additionally you download a PDF copy of it <a href="Arturs.Oganesyan-Peel.CV.03.20.2017.pdf" target="_blank">here!</a>
+
 
 ### ANANT CORPORATION - Washington, DC
 ### Business Analyst & Project Manager
