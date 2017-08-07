@@ -1,7 +1,5 @@
 
-<header>
-Arturs - Website
-</header>
+%Arturs - Website
 # About Me
 ---
 My name is **Arturs**.
