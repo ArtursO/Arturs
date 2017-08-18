@@ -70,5 +70,3 @@ If you have any questions don't hesitate to send me an email at [arturs.oganes@g
 # Socials
 ---
 You can follow me on <a href="https://www.linkedin.com/in/arturso/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://twitter.com/_AOG" target="_blank">Twitter</a>, and <a href="https://www.instagram.com/le_roi_arturs/" target="_blank">Instagram</a>.
-
-<!--[<img src="images/linkedin.svg" alt="LinkedIn" style="width: 20px;"/>]-->
