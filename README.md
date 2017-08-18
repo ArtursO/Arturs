@@ -3,9 +3,7 @@
 
 # About Me
 ---
-My name is **Arturs**.
-
-<img class="img-circle" align="right" src="/arturs.jpg" width="15%">
+My name is **Arturs**. <img class="img-circle" align="right" src="/arturs.jpg" width="15%">
 
 I was born in Riga, Latvia. By the time I got to college in Washington, DC I had the opportunity to live in 8 different cities, 6 different countries, and learned English (:thumbsup:), French (:thumbsup:), Russian (:five:/:keycap_ten:), and German (:three:/:keycap_ten:).
 
