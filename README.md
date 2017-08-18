@@ -1,9 +1,10 @@
 
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
-# About Me
+<img class="img-circle" align="right" src="/arturs.jpg" width="15%">
+# About Me 
 ---
-My name is **Arturs**. <img class="img-circle" align="right" src="/arturs.jpg" width="15%">
+My name is **Arturs**. 
 
 I was born in Riga, Latvia. By the time I got to college in Washington, DC I had the opportunity to live in 8 different cities, 6 different countries, and learned English (:thumbsup:), French (:thumbsup:), Russian (:five:/:keycap_ten:), and German (:three:/:keycap_ten:).
 
