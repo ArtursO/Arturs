@@ -25,7 +25,7 @@ Below you can find my resume updated as of Friday, August 4th 2017. Additionally
 ```
 • Act as liaison between client and technical team in order to facilitate the use of technology to drive critical business goals.
 • Perform requirements gathering for five clients thus far in order to ensure timely delivery and client satisfaction while staying within the scope of the project. 
-•Craft client solutions that leverage CMS / portal technology.
+• Craft client solutions that leverage CMS / portal technology.
 • Work effectively in a collaborative team environment composed of various partners and vendors.
 • Perform front-end development, testing and content marketing strategy automations for clients. 
 • Led and managed development and delivery of new company site.
