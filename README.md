@@ -5,6 +5,8 @@
 ---
 My name is **Arturs**.
 
+<img align="right" src="/arturs.png">
+
 I was born in Riga, Latvia. By the time I got to college in Washington, DC I had the opportunity to live in 8 different cities, 6 different countries, and learned English (:thumbsup:), French (:thumbsup:), Russian (:five:/:keycap_ten:), and German (:three:/:keycap_ten:).
 
 <iframe width="100%" height="300" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d278360.92585341353!2d23.850081744067825!3d56.97116141078604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46eecfb0e5073ded%3A0x400cfcd68f2fe30!2sRiga%2C+Latvia!5e0!3m2!1sen!2sus!4v1501877805075" frameborder="0" allowfullscreen  align="center"></iframe>
