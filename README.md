@@ -24,10 +24,11 @@ Below you can find my resume updated as of Friday, August 4th 2017. Additionally
 #### Business Analyst & Project Manager   |   June 2015 - Present
 ```
 • Act as liaison between client and technical team in order to facilitate the use of technology to drive critical business goals.
-• Perform requirements gathering for five clients thus far in order to ensure timely delivery and client satisfaction while staying within the
-scope of the project. Craft client solutions that leverage CMS / portal technology.
+• Perform requirements gathering for five clients thus far in order to ensure timely delivery and client satisfaction while staying within the scope of the project. 
+•Craft client solutions that leverage CMS / portal technology.
 • Work effectively in a collaborative team environment composed of various partners and vendors.
-• Perform front-end development, testing and content marketing strategy automations for clients. Led and managed development and delivery of new company site.
+• Perform front-end development, testing and content marketing strategy automations for clients. 
+• Led and managed development and delivery of new company site.
 ```
 
 #### SOCIETY FOR SCIENCE & THE PUBLIC, Washington, DC 
@@ -42,8 +43,8 @@ scope of the project. Craft client solutions that leverage CMS / portal technolo
 #### BLOOMBERG INSTITUTE, Washington, DC 
 #### Campus Ambassador   |   June 2013 – May 2015
 ```
-• Received 2015 Leadership Award for the Americas region. Achieved 113% of yearly goal within first semester of academic year. Stood
-as 5th most successful ambassador out of Americas region during last year of position.
+• Received 2015 Leadership Award for the Americas region. Achieved 113% of yearly goal within first semester of academic year. 
+• Stood as 5th most successful ambassador out of Americas region during last year of position.
 • Actively played role within Bloomberg team made up of other BAT ambassadors to achieve top 3 ranking out of all Americas teams.
 • Rank among top 10% of worldwide Bloomberg Aptitude Test test takers as an undergraduate.
 ```
@@ -67,7 +68,8 @@ as 5th most successful ambassador out of Americas region during last year of pos
 ```
 • Generated various deliverables concerning employment statistics across numerous companies, which assisted both the sales pitching and effective customer targeting of early technology start•up.
 • Gained experience in day•to•day business functions and HR working at a technology startup company specializing in human resource management.
-• Supported sales through extensive research on potential leads, markets, and industries. Compiled data on industries where our software would be most beneficial resulting in compiled list of potential leads for future sales.
+• Supported sales through extensive research on potential leads, markets, and industries. 
+• Compiled data on industries where our software would be most beneficial resulting in compiled list of potential leads for future sales.
 ```
 
 #### BEAU REVEIL FOOD DELIVERY, Leysin, Switzerland
@@ -75,7 +77,7 @@ as 5th most successful ambassador out of Americas region during last year of pos
 ```
 • Identified business opportunity in highly regulated dormitory environment and consequentially pitched idea to dorm director.
 • Oversaw supply management and operations of handling school•supplier•stakeholder relationships on a daily basis.
-•  Resulted in profits of approximately $1200 per week whilst donating 20•30% to local Habit for Humanity chapter.
+• Resulted in profits of approximately $1200 per week whilst donating 20•30% to local Habit for Humanity chapter.
  ```
 
 # Contact
