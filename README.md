@@ -23,12 +23,19 @@ Below you can find my resume updated as of Friday, August 4th 2017. Additionally
 #### ANANT CORPORATION - Washington, DC
 #### Business Analyst & Project Manager   |   June 2015 - Present
 ```
-• Act as liaison between client and technical team in order to facilitate the use of technology to drive critical business goals.
-• Perform requirements gathering for five clients thus far in order to ensure timely delivery and client satisfaction while staying within the scope of the project. 
-• Craft client solutions that leverage CMS / portal technology.
-• Work effectively in a collaborative team environment composed of various partners and vendors.
-• Perform front-end development, testing and content marketing strategy automations for clients. 
-• Led and managed development and delivery of new company site.
+• Ensure on-time Agile-based delivery of internal product features through effective team leadership, organization of sprints and feature backlog whilst keeping overall product goals in sight.
+• Managed technical team in delivering client project focusing on the gathering of data from multiple SaaS and on­-premise software systems to be displayed in open-source Metabase and Redash business intelligence tools.
+• Act as liaison between the client and technical team in order to facilitate the use of technology to drive critical business goals.
+• Perform requirements gathering for multiple clients in order to ensure timely delivery and client satisfaction while staying within the scope of the project. 
+• Perform Quality Assurance and Testing across a variety of client deliveries ranging from front-end modifications, bug fixes, data enhancement, automations, workflows, and triggers.
+• Perform optimally in a collaborative and international environment composed of various partners and vendors. 
+• Create Salesforce CRM autmation, triggers, and workflows.
+• Coordinate team of technical architects to deliver weekly stories in order to hit milestone and sprint due dates on time and with the highest client satisfaction.
+• Work across multiple enterprise portal, data warehousing, and search projects. 
+• Leading and creating client success through timely and proactive client communication and transparency.
+• Providing training, documentation, and guidance for on­boarding of clients onto open-source and properiterary software platoforms.
+• Perform front-end development tasks and content marketing strategy integrations for clients. 
+• Create analytics dashboards for internal use through the use of MySQL for various company departements.
 ```
 
 #### SOCIETY FOR SCIENCE & THE PUBLIC, Washington, DC 
