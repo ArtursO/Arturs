@@ -89,8 +89,17 @@ Below you can find my resume updated as of Friday, August 4th 2017. Additionally
 
 # Contact
 ---
-If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com) or [arturs@anant.us](mailto:arturs@anant.us).
+If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com) or at [arturs@anant.us](mailto:arturs@anant.us).
 
 # Socials
 ---
 You can follow me on <a href="https://www.linkedin.com/in/arturso/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://twitter.com/_AOG" target="_blank">Twitter</a>, <a href="https://www.instagram.com/le_roi_arturs/" target="_blank">Instagram</a>, and <a href="https://www.goodreads.com/user/show/6442888-arturs" target="_blank">Goodreads</a>.
+
+<!--# Certifications
+---
+Add PSM certification
+
+# Causes
+---
+Add 80k hours, effective altruism, against malaria foundation ?and more?
+-->
