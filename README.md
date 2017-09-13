@@ -89,7 +89,7 @@ Below you can find my resume updated as of Friday, August 4th 2017. Additionally
 
 # Contact
 ---
-If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com).
+If you have any questions don't hesitate to send me an email at [arturs.oganes@gmail.com](mailto:arturs.oganes@gmail.com) or [arturs@anant.us](mailto:arturs@anant.us).
 
 # Socials
 ---
