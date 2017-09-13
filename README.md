@@ -4,7 +4,7 @@
 <img alt="hi!" class="img-circle" align="right" src="/arturs.jpg" width="20%" margin="15px">
 # About Me 
 ---
-My name is **Arturs**. 
+My name is **Arturs Oganesyan-Peel**. 
 
 I was born in Riga, Latvia. By the time I got to college in Washington, DC I had the opportunity to live in 8 different cities, 6 different countries, and learned English (:thumbsup:), French (:thumbsup:), Russian (:five:/:keycap_ten:), and German (:three:/:keycap_ten:).
 
