@@ -2,6 +2,7 @@
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 <img alt="hi!" class="img-circle" align="right" src="/arturs.jpg" width="20%" margin="15px">
+
 # About Me 
 ---
 Hey, my name is **Arturs** Oganesyan-Peel.
